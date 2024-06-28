@@ -10,8 +10,7 @@ Welcome to the NewsLetter Sign-Up Application! This project is designed to allow
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js (or your backend technology)
+- HTML, CSS, JavaScript
 - API Integration: MailChimp API
 
 ## Getting Started
