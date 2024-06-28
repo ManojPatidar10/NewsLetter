@@ -44,7 +44,7 @@ app.post('/signup', (req, res)=>{
         url: 'https://us13.api.mailchimp.com/3.0/lists/966ec65277',
         method: 'POST',
         headers:{
-            Authorization:'auth 4fbaaf44ca50777b3d4695449f7abd80-us13'
+            Authorization:'Your API key'
         },
         body: postData
     }
